@@ -1,0 +1,5 @@
+opencv-python-headless==4.*
+grpcio==1.*
+protobuf==4.*
+numpy==1.26.*
+hailo-platform==4.14.*   # SDK (соберётся даже без железа)
